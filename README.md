@@ -20,8 +20,9 @@ Built a custom CNN model which had the following architecture
 ### Tips thats really helped:
 
 - Adding More Layers (Making the Network deeper to decrease training loss)
-- Including Zero Padding and Max Pooling Layers
+- Including Batch Norm, Max Pooling, Padding Layers
 - Experimenting with different values of Dropout Regularization (Decreasing Validation Loss and hence reduce overfitting)
+- Experimenting with different bacth sizes (64 works best)
 - Setting up Callbacks : -
 1. Learning Rate Scheduler to slow down learning as the model reached Convergence Point
 2. Saving and Loading from best model with the focus on least validation loss
