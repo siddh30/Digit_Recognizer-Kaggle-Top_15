@@ -16,7 +16,7 @@ To classify handwritten digits from 0-9 as labels (classes) - [0, 1, 2, 3, 4, 5,
 ### Approach
 Built a custom CNN model which had the following architecture
 
-<img width="1500" img height= "400" alt="submission" src="https://github.com/siddh30/Digit_Recognizer-Kaggle_Competion/blob/main/model_plot.png"> 
+<img width="600" img height= "400" alt="submission" src="https://github.com/siddh30/Digit_Recognizer-Kaggle_Competion/blob/main/model_plot.png"> 
 
 ### Tips thats really helped:
 
