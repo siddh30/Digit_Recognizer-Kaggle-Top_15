@@ -1,5 +1,5 @@
 #  <p align = 'center'> Digit Recognizer </p>
-<p align = 'center'> Hit Top 15% in an unranked Kaggle competition with an accuracy of 0.9946 </p>
+<p align = 'center'> Hit Top 15% in an unranked Kaggle competition with a score of 0.9946 </p>
 
 
 
