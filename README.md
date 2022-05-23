@@ -5,7 +5,7 @@
 
 <p align = 'center'> <img width="1500" img height= "400" alt="submission" src="https://github.com/siddh30/Digit_Recognizer-Kaggle_Competion/blob/main/Leaderboard-2022.png"> </p>
 
-### Objective
+## Objective
 To classify handwritten digits from 0-9 as labels (classes) - [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 ### Data
@@ -14,12 +14,12 @@ To classify handwritten digits from 0-9 as labels (classes) - [0, 1, 2, 3, 4, 5,
 - Test : A csv of 784 features - Each feature being a pixel value for a 28*28 image
 - Sample Sumbission Csv - A sample submission file telling us how the submission file should look like
 
-### Approach
+## Approach
 Built a custom CNN model which had the following architecture
 
 <img width="400" img height= "1200" alt="submission" src="https://github.com/siddh30/Digit_Recognizer-Kaggle_Competion/blob/main/model_plot.png"> 
 
-### Tips thats really helped:
+## Tips thats really helped:
 
 - Adding More Layers (Making the Network deeper to decrease training loss)
 - Including Batch Norm, Max Pooling, Padding Layers
@@ -30,7 +30,8 @@ Built a custom CNN model which had the following architecture
   2. Saving and Loading from best model with the focus on least validation loss
 - Finally Ensembling results from various model runs to give a best aggregate results (Mode of prediction labels)
 
-Link to my Kaggle notebook: https://www.kaggle.com/code/siddharthmandgi/digit-recognizer-above-0-99-score 
+## Link to my Kaggle notebook 
+https://www.kaggle.com/code/siddharthmandgi/digit-recognizer-above-0-99-score 
 
 
   
