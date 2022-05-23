@@ -4,5 +4,5 @@
 
 <p align = 'center'> <img width="1500" img height= "400" alt="submission" src="https://github.com/siddh30/Digit_Recognizer-Kaggle_Competion/blob/main/Leaderboard-2022.png"> </p>
 
-Objective: To classify handwritten digits from 0-9 as labels (classes) - [0,1,2,3,4,5,6,7,8,9]
+Objective: To classify handwritten digits from 0-9 as labels (classes) - [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
   
