@@ -1,5 +1,4 @@
 #  <p align = 'center'> Digit Recognizer </p>
-<p align = 'center'> https://www.kaggle.com/code/siddharthmandgi/digit-recognizer-above-0-99-score </p>
 <p align = 'center'> Hit Top 15% in an unranked Kaggle competition with an accuracy of 0.9946 </p>
 
 
@@ -31,7 +30,7 @@ Built a custom CNN model which had the following architecture
   2. Saving and Loading from best model with the focus on least validation loss
 - Finally Ensembling results from various model runs to give a best aggregate results (Mode of prediction labels)
 
-
+Link to my Kaggle notebook: <p align = 'center'> https://www.kaggle.com/code/siddharthmandgi/digit-recognizer-above-0-99-score </p>
 
 
   
