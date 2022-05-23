@@ -8,7 +8,7 @@
 To classify handwritten digits from 0-9 as labels (classes) - [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 ### Data
-<img width="210" img height= "110" alt="submission" src="https://github.com/siddh30/Digit_Recognizer-Kaggle_Competion/blob/main/data.png"> 
+<img width="310" img height= "410" alt="submission" src="https://github.com/siddh30/Digit_Recognizer-Kaggle_Competion/blob/main/data.png"> 
 - Train : A csv of 784 features - Each feature being a pixel value for a 28*28 image. A target feature containing labels
 - Test : A csv of 784 features - Each feature being a pixel value for a 28*28 image
 - Sample Sumbission Csv - A sample submission file telling us how the submission file should look like
