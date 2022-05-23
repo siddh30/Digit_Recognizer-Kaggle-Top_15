@@ -24,8 +24,8 @@ Built a custom CNN model which had the following architecture
 - Experimenting with different values of Dropout Regularization (Decreasing Validation Loss and hence reduce overfitting)
 - Experimenting with different bacth sizes (64 works best)
 - Setting up Callbacks : -
-1. Learning Rate Scheduler to slow down learning as the model reached Convergence Point
-2. Saving and Loading from best model with the focus on least validation loss
+  1. Learning Rate Scheduler to slow down learning as the model reached Convergence Point
+  2. Saving and Loading from best model with the focus on least validation loss
 - Finally Ensembling results from various model runs to give a best aggregate results (Mode of prediction labels)
 
 
