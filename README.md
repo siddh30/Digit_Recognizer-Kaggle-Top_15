@@ -30,7 +30,7 @@ Built a custom CNN model which had the following architecture
   2. Saving and Loading from best model with the focus on least validation loss
 - Finally Ensembling results from various model runs to give a best aggregate results (Mode of prediction labels)
 
-Link to my Kaggle notebook: <p align = 'center'> https://www.kaggle.com/code/siddharthmandgi/digit-recognizer-above-0-99-score </p>
+Link to my Kaggle notebook: https://www.kaggle.com/code/siddharthmandgi/digit-recognizer-above-0-99-score 
 
 
   
