@@ -11,5 +11,10 @@ To classify handwritten digits from 0-9 as labels (classes) - [0, 1, 2, 3, 4, 5,
 - Train : A csv of 784 features - Each feature being a pixel value for a 28*28 image. A target feature containing labels
 - Test : A csv of 784 features - Each feature being a pixel value for a 28*28 image
 
+### Approach
+Built a custom CNN model which had the following architecture
+
+
+
 
   
